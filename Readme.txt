@@ -1,1 +1,1 @@
-Place the program you want to commit to github in this folderuy
+Place the program you want to commit to github in this folder
